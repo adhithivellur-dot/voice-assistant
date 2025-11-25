@@ -32,7 +32,7 @@ def speech_to_text(x):
 
 if __name__ == "__main__":
 
-   #if  "hey Scuba" in speak().lower() :
+   
      while True:
       data1=speak()
       if "your name" in data1:
